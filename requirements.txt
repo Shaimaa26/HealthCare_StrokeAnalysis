@@ -1,3 +1,9 @@
+flask
+pandas
+numpy
+scikit-learn
+
+
 import pickle
 from flask import Flask, render_template, request
 
